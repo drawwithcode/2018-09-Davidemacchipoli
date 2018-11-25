@@ -3,6 +3,7 @@ function preload(){
 }
 
 function setup() {
+  rect(80,80,80,80)
   // put setup code here
 }
 
